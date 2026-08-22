@@ -1,4 +1,4 @@
-# History-of-RGIS-and-other-Russian-projects
+# History-of-Russian-Guards-of-Innovation-Inc-and-other-Russian-projects
 An archive documenting the history of Russian-speaking Innovation Inc. communities, including OII, RGIS, IIRC, IRC, and the current RGIS project.
 
 ## What this archive covers
