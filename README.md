@@ -27,6 +27,7 @@ This archive documents:
 | **mixacec2** | Deputy Creator |
 | **minttexzz** | Moderator |
 | **KesaMesa** | Scripter of the RGIS Training Centre |
+| **MrFantastik** | Veteran / Former Co-Founder |
 
 ---
 
