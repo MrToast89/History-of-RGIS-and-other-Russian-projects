@@ -452,4 +452,4 @@ What started as a small group of friends in May 2024 has become a community with
 - IRC Roblox Group: [IRC Roblox Group](https://www.roblox.com/share/g/387818876)
 - IIRC: [IIRC Discord](https://discord.gg/FgfKQCZEvZ)
 
-- Written by MrToast ( KingOfToasts88 )
+ Written by MrToast ( KingOfToasts88 )
