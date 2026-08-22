@@ -385,5 +385,16 @@ What started as a small group of friends in May 2024 has become a community with
 **The second RGIS is alive.**
 
 **And the story is still being written.**
+## Official Links
 
-Written by MrToast ( KingOfToasts88 )
+### Current RGIS
+- Roblox Group: [RGIS Roblox Group](https://www.roblox.com/share/g/34407645)
+- RGIS Training Centre: [Training Centre](https://www.roblox.com/share?code=71c07453ca97014f8f795fd4a3db88e0&type=ExperienceDetails&stamp=1787402401691)
+- Discord: [RGIS Discord](https://discord.gg/ZuvMQn6MwU)
+
+### Other Communities
+- IRC: [IRC Discord](https://discord.gg/sDMVm3aDQz)
+- IRC Roblox Group:(https://www.roblox.com/share/g/387818876)
+- IIRC: [IIRC Discord](https://discord.gg/FgfKQCZEvZ)
+
+- Written by MrToast ( KingOfToasts88 )
