@@ -212,7 +212,7 @@ I remained connected to the server and am still a Senior Moderator there, but II
 
 # IRC — Another Separate Community
 
-While IRC already existed, another completely separate Discord server was later created.
+While IIRC already existed, another completely separate Discord server was later created.
 
 It was created: 2024. November 02.
 
