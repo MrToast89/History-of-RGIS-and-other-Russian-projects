@@ -15,7 +15,7 @@ This archive documents:
 - The Blue Acid lore and its role in RGIS
 - Changes in leadership and important members
 - The development of the RGIS community over time
-- 
+  
 - ## Current Roles & Leadership
 
 ### RGIS — Current Community 2026.08
