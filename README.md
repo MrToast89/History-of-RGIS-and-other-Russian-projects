@@ -1,6 +1,60 @@
 # History-of-RGIS-and-other-Russian-projects
 An archive documenting the history of Russian-speaking Innovation Inc. communities, including OII, RGIS, IIRC, IRC, and the current RGIS project.
 
+## What this archive covers
+
+This archive documents:
+
+- The origins of the OII community
+- The history of the first RGIS Discord server
+- The 2024 internal conflict and the “revolution”
+- The creation and history of IIRC
+- The creation and development of IRC
+- The creation of the second and current RGIS server
+- The development of the RGIS Training Centre
+- The Blue Acid lore and its role in RGIS
+- Changes in leadership and important members
+- The development of the RGIS community over time
+- 
+- ## Current Roles & Leadership
+
+### RGIS — Current Community 2026.08
+
+| User | Position |
+|------|----------|
+| **MrToast (KingOfToasts88)** | Creator / Head of RGIS |
+| **Makar643267** | Creator |
+| **mixacec2** | Deputy Creator |
+| **minttexzz** | Moderator |
+| **KesaMesa** | Scripter of the RGIS Training Centre |
+
+---
+
+### IRC — Current Community 2026.08
+
+| User | Position |
+|------|----------|
+| **Fereque** | Director |
+| **MrToast (KingOfToasts88)** | Agency Director / Deputy Director |
+| **DanilkaRussia8** | Senior Agent |
+| **Makar643267** | Senior Agent |
+| **mixacec2** | Junior Agent |
+| **dendric081** | Junior Agent |
+| **zhenya_T2020** | Junior Agent |
+| **wuorikorg** | Junior Agent |
+
+---
+
+### IIRC — Archived Community 2026.08
+
+> IIRC is currently inactive and considered abandoned.
+
+| User | Position |
+|------|----------|
+| **LiMoH4iK** | Creator |
+| **RandomUser** | Head Moderator |
+| **MrToast (KingOfToasts88)** | Senior Moderator |
+
 # The History of RGIS
 
 RGIS has a surprisingly long history for something that started with a small group of friends.
