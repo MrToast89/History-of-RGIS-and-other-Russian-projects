@@ -248,7 +248,7 @@ This caused a serious disagreement between us.
 
 Eventually, Fereque removed me from my creator position and we went our separate ways.
 
-At that point, I realized that IRC wasn't the project I wanted to continue building.
+At that point, I realized that IRC wasn't the project I wanted to continue building. (now I want to)
 
 I wanted to bring back **RGIS**.
 
@@ -498,6 +498,7 @@ What started as a small group of friends in May 2024 has become a community with
 **The second RGIS is alive.**
 
 **And the story is still being written.**
+
 ## Official Links
 
 ### Current RGIS
