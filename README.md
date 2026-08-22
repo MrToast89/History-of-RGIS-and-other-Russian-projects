@@ -246,6 +246,56 @@ At that point, I realized that IRC wasn't the project I wanted to continue build
 
 I wanted to bring back **RGIS**.
 
+——-
+
+# The IIRC–IRC Conflict — Additional Evidence
+
+Archived staff messages from March 2025 provide additional details about the conflict between IIRC, IRC and the people involved.
+
+## Fereque's Ban
+
+Fereque was banned from IIRC after several rule violations. RandomUser, the main moderator of IIRC, explained that the reasons included Rule 7, concerning communication with administration, Rule 5, concerning flooding, as well as previous verbal and written warnings.
+
+Fereque questioned the decision and asked why he had been banned.
+
+## The Ban of RandomUser
+
+After his ban from IIRC, Fereque stated that he would ban RandomUser from his own and associated communities.
+
+The reason given by Fereque was RandomUser's actions in QSRC, which Fereque described as a "server leak".
+
+This created another point of conflict between the two sides. RandomUser was the main moderator of IIRC, while Fereque was responsible for IRC and was also connected to QSRC and its partnership with PBRC.
+
+## Escalation
+
+The conflict continued to escalate, with both sides making threats against each other.
+
+The archived conversations include discussions about possible raids, Discord reports and other actions against the opposing side. At one point, a possible raid against a community connected to the opposing side was discussed.
+
+Despite these threats, no major raid or similar attack was ultimately carried out.
+
+The conflict eventually stopped escalating, and the communities largely stopped interacting with each other.
+
+## The End of the Conflict
+
+Over time, the conflict effectively came to an end through separation rather than reconciliation.
+
+IIRC eventually became inactive and effectively died as a community. Its server is no longer active.
+
+IRC, on the other hand, remained active and continued developing as a community.
+
+Because of this, in terms of long-term activity and survival, IRC can be considered the side that ultimately came out ahead. This does not necessarily mean that every claim made during the conflict was proven or that IRC "won" every individual dispute, but IRC remained active while IIRC became inactive.
+
+LiMoH4iK, the founder of IIRC, is also banned from IRC and other communities associated with Fereque.
+
+The two sides now largely exist separately, with little to no interaction between them.
+
+## Additional QSRC Documentation
+
+The QSRC-related events are documented separately and are not included in detail here, as they are not directly part of the IIRC–IRC conflict.
+
+[QSRC — Limon Investigation / Archive](https://docs.google.com/document/d/11eSIxEoO34kZCowH1QFHsi_nd58PiX4OlF3pX77PICs/edit?usp=drivesdk)
+
 ---
 
 # The Second RGIS
