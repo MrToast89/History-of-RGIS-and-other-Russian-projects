@@ -164,6 +164,8 @@ After the original RGIS server disappeared, a completely separate Discord commun
 
 IIRC was not a renamed version of the original RGIS server. It was a new and separate server.
 
+It was created: 2024. May 6.
+
 Its main leadership included:
 
 - **Termo**
@@ -179,6 +181,8 @@ IIRC became a new home for many people who had been involved in the previous com
 ---
 
 # The TvMan Incident
+
+( 2024. July 08. )
 
 During the IIRC period, another serious situation occurred involving **TvMan**.
 
@@ -208,7 +212,9 @@ I remained connected to the server and am still a Senior Moderator there, but II
 
 # IRC — Another Separate Community
 
-After the IIRC period, another completely separate Discord server appeared.
+While IRC already existed, another completely separate Discord server was later created.
+
+It was created: 2024. November 02.
 
 Its original name was:
 
@@ -318,6 +324,8 @@ Many former members eventually returned.
 
 # The Modern RGIS
 
+The Discord server was created: 2025. April 07.
+
 The second RGIS developed into something much more structured than the original community.
 
 The Training Centre became a functional experience where actual trainings could be held.
@@ -396,7 +404,7 @@ Eventually, we both apologized and moved past what happened.
 
 Our relationship improved and we began working together again.
 
-Fereque returned to the community, first as a Senior Moderator and later as part of the leadership.
+MrToast returned to the community, first as a Senior Moderator and later as part of the leadership.
 
 So although the IRC period ended with a major disagreement between us, we eventually managed to put it behind us.
 
