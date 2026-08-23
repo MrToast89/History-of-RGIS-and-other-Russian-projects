@@ -62,6 +62,24 @@ RGIS has a surprisingly long history for something that started with a small gro
 
 It all began around **May 2024**, when roughly ten of us regularly played Innovation Inc. games and other Roblox experiences together. We wanted more people to join us, so the idea of creating our own community was born.
 
+The members of this early group included:
+
+* evontiure
+* 10randomppl (ЕЩКЕРЕ)
+* idk0782517567 (TvMan)
+* mixa7546
+* KesaMesa
+* lemon42 (Makar)
+* MrFantastik1
+* KingOfToasts88 (MrToast)
+* danya_dzumarik
+* taras8606
+
+Additional information:
+
+* evontiure later left the project.
+* idk0782517567 (TvMan) eventually disappeared from the community, and we currently do not know what happened to him.
+
 At the time, we had no idea that this small group would eventually turn into RGIS, go through several different communities, survive major conflicts, disappear, and then come back as a completely new generation.
 
 ---
