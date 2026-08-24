@@ -5,7 +5,7 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 
 ### Community & Leadership
 - [Current Roles & Leadership](#current-roles--leadership)
-- [KesaMesa — Contributions & Projects](#kesamesa--contributions--projects)
+- [KesaMesa's Roblox Project](#KesaMesa's Roblox Project)
 
 ### RGIS History
 - [The History of RGIS](#the-history-of-rgis)
