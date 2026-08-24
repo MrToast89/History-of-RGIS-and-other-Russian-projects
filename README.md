@@ -369,6 +369,67 @@ The Training Centre became one of the main parts of the entire RGIS project.
 
 ---
 
+# RGIS Training Centre — History & Development
+
+## Origins
+
+The RGIS Training Centre is a Roblox project created for the RGIS community. The place was first created on **May 24, 2024**.
+
+Before the current Training Centre, there was an earlier place made partly with Toolbox assets. The original idea was to turn it into a training centre, but I eventually decided to start over and build a completely separate place from scratch without using Toolbox assets.
+
+The main idea was to create a place where the community could train together, have their own trainers and teams, compete, and simply have fun together.
+
+## Early Development
+
+The first version was very unfinished. Most of the map was empty, and the only real playable area was a small PvP section based on an older RGIS map that I rebuilt and expanded.
+
+The first game mode was a small **sword-fighting arena**.
+
+As development continued, the Training Centre slowly became a much larger project. **KesaMesa** played a major role in making the game functional, working on systems such as spawning, doors, administration, and other gameplay features.
+
+## Development Challenges
+
+Development was stopped several times.
+
+After RGIS fell apart, I lost motivation and temporarily abandoned the project. It was later considered for IIRC and then IRC, but neither attempt really worked out.
+
+Eventually, development returned to RGIS. Together with KesaMesa, I started working on the Training Centre again, and this time the project finally gained momentum.
+
+The original RGIS identity, including the logo and flags, was kept throughout this period.
+
+## First Training
+
+The first Training Centre training took place on **April 26, 2026**, with around **15 participants**.
+
+We tested around **10 game modes**, played through the maps, and used the **Commends** system. Players could earn Commends for winning rounds, and some participants even received rank promotions.
+
+The first training also helped us find bugs and improve things such as map spawn positions.
+
+## Community & Contributors
+
+The main development was done by **MrToast** and **KesaMesa**, with other community members helping through testing and training sessions, including:
+
+- **DanyaDzumarik**
+- **Makar**
+- **magyardurex55**
+- **Mixa7546**
+
+Everyone who spent their time helping the project is part of its history.
+
+## Current State
+
+As of **August 2026**, the RGIS Training Centre is active and playable. More maps and content are planned for the future.
+
+For me, the biggest achievement of the project is not just the game itself, but the community around it — a place where people can train, compete, have fun, and build something together.
+
+## KesaMesa's Roblox Project
+
+**KesaMesa** is one of the main contributors to the RGIS Training Centre, mainly working on scripting and technical systems.
+
+She also has her own Roblox project, which is worth checking out if you're interested in her work as a developer.
+
+🎮 **[Play KesaMesa's Roblox Experience](https://www.roblox.com/share?code=d73700e2ba42cd428161d742595659ea&type=ExperienceDetails&stamp=1787610207288)**
+
 # The Blue Acid
 
 One of the most recognizable parts of the RGIS Training Centre is its **neon blue acid**.
