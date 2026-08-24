@@ -12,6 +12,7 @@ This archive documents:
 - The creation and development of IRC
 - The creation of the second and current RGIS server
 - The development of the RGIS Training Centre
+- KesaMesa and her contributions to RGIS projects
 - The Blue Acid lore and its role in RGIS
 - Changes in leadership and important members
 - The development of the RGIS community over time
