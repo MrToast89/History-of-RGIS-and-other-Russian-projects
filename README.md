@@ -1,21 +1,30 @@
 # History-of-Russian-Guards-of-Innovation-Inc-and-other-Russian-projects
 An archive documenting the history of Russian-speaking Innovation Inc. communities, including OII, RGIS, IIRC, IRC, and the current RGIS project.
 
-## What this archive covers
+## 📚 Archive Index
 
-This archive documents:
+### Community & Leadership
+- [Current Roles & Leadership](#current-roles--leadership)
+- [KesaMesa — Contributions & Projects](#kesamesa--contributions--projects)
 
-- The origins of the OII community
-- The history of the first RGIS Discord server
-- The 2024 internal conflict and the “revolution”
-- The creation and history of IIRC
-- The creation and development of IRC
-- The creation of the second and current RGIS server
-- The development of the RGIS Training Centre
-- KesaMesa and her contributions to RGIS projects
-- The Blue Acid lore and its role in RGIS
-- Changes in leadership and important members
-- The development of the RGIS community over time
+### RGIS History
+- [The History of RGIS](#the-history-of-rgis)
+- [The Early Roblox Project](#the-early-roblox-project)
+- [The 2024 Revolution](#the-2024-revolution)
+- [IIRC](#iirc--a-separate-server)
+- [IRC](#irc--another-separate-community)
+- [The Second RGIS](#the-second-rgis)
+- [The Modern RGIS](#the-modern-rgis)
+- [RGIS Training Centre](#rgis-training-centre)
+- [The Blue Acid](#the-blue-acid)
+- [Leadership Today](#leadership-today)
+- [Reconciliation with Fereque](#reconciliation-with-fereque)
+- [The Three Main Discord Communities](#the-three-main-discord-communities)
+- [RGIS Today](#rgis-today)
+
+### Reference
+- [Looking Back](#looking-back)
+- [Official Links](#official-links)
   
 - ## Current Roles & Leadership
 
