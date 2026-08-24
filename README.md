@@ -560,7 +560,6 @@ The current leadership consists of **MrToast / KingOfToasts88** and **Makar64326
 
 RGIS also maintains friendly connections with people from its past, including Fereque.
 
----
 
 # Looking Back
 
@@ -576,7 +575,7 @@ Then came IRC.
 
 Both were separate communities, each with its own people, problems and history.
 
-Eventually, RGIS came back — not as the old Discord server, because that server was gone, but as a **second RGIS community**.
+Eventually, RGIS came back not as the old Discord server, because that server was gone, but as a **second RGIS community**.
 
 The current RGIS is built on the experience of everything that happened before it.
 
