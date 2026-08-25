@@ -35,7 +35,7 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 | User | Position |
 |------|----------|
 | **MrToast (KingOfToasts88)** | Creator / Head of RGIS |
-| **Makar643267** | Creator |
+| **Makar643267 (xstar_captain)** | Creator |
 | **mixacec2** | Deputy Creator |
 | **minttexzz** | Moderator |
 | **KesaMesa** | Scripter of the RGIS Training Centre |
@@ -50,7 +50,7 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 | **Fereque** | Director |
 | **MrToast (KingOfToasts88)** | Agency Director / Deputy Director |
 | **DanilkaRussia8** | Senior Agent |
-| **Makar643267** | Senior Agent |
+| **Makar643267 (xstar_captain)** | Senior Agent |
 | **mixacec2** | Junior Agent |
 | **dendric081** | Junior Agent |
 | **zhenya_T2020** | Junior Agent |
@@ -81,7 +81,7 @@ The members of this early group included:
 * idk0782517567 (TvMan)
 * mixa7546
 * KesaMesa
-* lemon42 (Makar)
+* lemon42 (Makar) (Star)
 * MrFantastik1
 * KingOfToasts88 (MrToast)
 * danya_dzumarik
@@ -556,7 +556,7 @@ The community has:
 - Its own Blue Acid lore
 - An active Discord community
 
-The current leadership consists of **MrToast / KingOfToasts88** and **Makar643267**.
+The current leadership consists of **MrToast** and **Makar643267 (xstar_captain)**.
 
 RGIS also maintains friendly connections with people from its past, including Fereque.
 
