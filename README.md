@@ -264,23 +264,29 @@ The idea was essentially to try again and recreate the type of Russian-speaking 
 
 # Changes and Conflicts in IRC
 
-IRC went through several changes.
+IRC went through quite a few changes after the original RGIS project had fallen apart.
 
-Fereque wanted to change the server's name and overall style. A community vote was held, and another name was chosen.
+At one point, I invited a friend of mine to the server. He was also one of the original creators of RGIS. After joining, Danya became one of the main people involved in the community and its management.
 
-Later, disagreements appeared over the management and direction of the server.
+Later, Danya asked me if he could change the server and give it a new style. I agreed, but I told him that he should discuss the changes with Fereque first, since he was also part of the leadership.
 
-I had allowed Fereque to make changes, but I wanted him to coordinate them with the other leadership first.
+That didn't happen.
 
-Instead, major changes were made quickly, including the deletion of messages and channels.
+Danya started making major changes without informing Fereque first. He deleted channels and messages and began rebuilding the server around his own ideas and style.
 
-This caused a serious disagreement between us.
+This caused a serious conflict between them. Fereque was very angry about what had happened and eventually removed Danya from his position.
 
-Eventually, Fereque removed me from my creator position and we went our separate ways.
+My situation was different. I wasn't removed simply because of what happened with Danya. By that point, my relationship with Fereque had already become worse. Because of other situations and disagreements, I had started trusting him less, and it became harder for us to work together like before.
 
-At that point, I realized that IRC wasn't the project I wanted to continue building. (now I want to)
+Eventually, I was removed from my position as well, and we went our separate ways.
 
-I wanted to bring back **RGIS**.
+After that, I started thinking about bringing RGIS back. I didn't want the original project to simply disappear, and I wanted to try building it again.
+
+At the time, the Roblox group that had originally been used for RGIS was being used as the IRC group. I decided to change the group back to RGIS and continue the project under its original name.
+
+Looking back, I also made a mistake in how I handled that decision. I told Fereque about the change only a few minutes before I made it, instead of giving him proper notice a few days earlier. I understand that this was not a good way to handle the situation, and I should have communicated it much earlier.
+
+Despite everything that happened, this became the starting point for bringing RGIS back and continuing the project again.
 
 ——-
 
