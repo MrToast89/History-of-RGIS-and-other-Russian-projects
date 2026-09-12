@@ -396,9 +396,11 @@ The Training Centre became one of the main parts of the entire RGIS project.
 
 ---
 
-# RGIS Training Centre — History & Development
+# RGIS Training Centre 
 
-## Origins
+## History & Development
+
+### Origins
 
 The RGIS Training Centre is a Roblox project created for the RGIS community. The place was first created on **May 24, 2024**.
 
@@ -571,7 +573,7 @@ The community has:
 - Its own Blue Acid lore
 - An active Discord community
 
-The current leadership consists of **MrToast** and **Makar643267 (xstar_captain)**.
+The current leadership consists of **MrToast** , **Makar643267 (xstar_captain)**. and **Danya_Dzumarik**
 
 RGIS also maintains friendly connections with people from its past, including Fereque.
 
