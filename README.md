@@ -30,20 +30,24 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
   
 - ## Current Roles & Leadership
 
-### RGIS — Current Community 2026.08
+### RGIS — Current Community 2026.09
 
 | User | Position |
 |------|----------|
 | **MrToast (KingOfToasts88)** | Creator / Head of RGIS |
+| **Danya_Dzumarik (danya203030)** | Creator |
 | **Makar643267 (xstar_captain)** | Creator |
 | **mixacec2** | Deputy Creator |
 | **minttexzz** | Moderator |
 | **KesaMesa** | Scripter of the RGIS Training Centre |
 | **MrFantastik** | Veteran / Former Co-Founder |
+> [!CAUTION]
+> ### 🔴 Fired Members
+> - **nikitabest13** - Moderator (2026.09.07)
 
 ---
 
-### IRC — Current Community 2026.08
+### IRC — Current Community 2026.09
 
 | User | Position |
 |------|----------|
@@ -51,10 +55,15 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 | **MrToast (KingOfToasts88)** | Agency Director / Deputy Director |
 | **DanilkaRussia8** | Senior Agent |
 | **Makar643267 (xstar_captain)** | Senior Agent |
-| **mixacec2** | Junior Agent |
-| **dendric081** | Junior Agent |
-| **zhenya_T2020** | Junior Agent |
-| **wuorikorg** | Junior Agent |
+| **eyefestation** | Junior Agent |
+
+> [!CAUTION]
+> ### 🔴 Fired Members
+> (2026.08.26.)
+> - **mixacec2** — Junior Agent
+> - **dendric081** — Junior Agent
+> - **zhenya_T2020** — Junior Agent
+> - **wuorikorg** — Junior Agent
 
 ---
 
