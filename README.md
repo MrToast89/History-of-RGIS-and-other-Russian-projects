@@ -563,7 +563,7 @@ IIRC is currently inactive and abandoned.
 
 ## IRC
 
-**Innovation CIS Community**  
+**Innovation Russian Community**  
 **IRC**
 
 A separate community created in November 2024.
