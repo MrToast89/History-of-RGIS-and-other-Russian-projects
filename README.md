@@ -1,4 +1,7 @@
 # History-of-Russian-Guards-of-Innovation-Inc-and-other-Russian-projects
+
+> **Archive last updated: September 29, 2026**
+
 An archive documenting the history of Russian-speaking Innovation Inc. communities, including OII, RGIS, IIRC, IRC, and the current RGIS project.
 
 ## 📚 Archive Index
@@ -13,24 +16,25 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 - [The History of RGIS](#the-history-of-rgis)
 - [The Early Roblox Project](#the-early-roblox-project)
 - [The 2024 Revolution](#the-2024-revolution)
-- [IIRC](#iirc--a-separate-server)
-- [IRC](#irc--another-separate-community)
+- [IIRC](#iirc-a-separate-server)
+- [IRC](#irc-another-separate-community)
 - [The Second RGIS](#the-second-rgis)
 - [The Modern RGIS](#the-modern-rgis)
 - [RGIS Training Centre](#rgis-training-centre)
 - [The Blue Acid](#the-blue-acid)
 - [Leadership Today](#leadership-today)
-- [Reconciliation with Fereque](#reconciliation-with-fereque)
 - [The Three Main Discord Communities](#the-three-main-discord-communities)
 - [RGIS Today](#rgis-today)
 
 ### Reference
 - [Looking Back](#looking-back)
 - [Official Links](#official-links)
-  
-- ## Current Roles & Leadership
 
-### RGIS — Current Community 2026.09
+---
+
+# Current Roles & Leadership
+
+## RGIS
 
 | User | Position |
 |------|----------|
@@ -40,14 +44,17 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 | **mixacec2** | Deputy Creator |
 | **minttexzz** | Moderator |
 | **KesaMesa** | Scripter of the RGIS Training Centre |
-| **MrFantastik** | Veteran / Former Co-Founder |
+| **MrFantastik (ProAlmazik1)** | Veteran / Former Co-Founder |
+
+**MrFantastik Discord username:** `mrfantastik1`
+
 > [!CAUTION]
 > ### 🔴 Fired Members
 > - **nikitabest13** - Moderator (2026.09.07)
 
 ---
 
-### IRC — Current Community 2026.09
+## IRC
 
 | User | Position |
 |------|----------|
@@ -59,17 +66,17 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 
 > [!CAUTION]
 > ### 🔴 Fired Members
-> (2026.08.26.)
-> - **mixacec2** — Junior Agent
-> - **dendric081** — Junior Agent
-> - **zhenya_T2020** — Junior Agent
-> - **wuorikorg** — Junior Agent
+> **2026.08.26**
+> - **mixacec2** - Junior Agent
+> - **dendric081** - Junior Agent
+> - **zhenya_T2020** - Junior Agent
+> - **wuorikorg** - Junior Agent
 
 ---
 
-### IIRC — Archived Community 2026.08
+## IIRC
 
-> IIRC is currently inactive and considered abandoned.
+> IIRC is currently inactive and abandoned.
 
 | User | Position |
 |------|----------|
@@ -77,11 +84,13 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 | **RandomUser** | Head Moderator |
 | **MrToast (KingOfToasts88)** | Senior Moderator |
 
+---
+
 # The History of RGIS
 
-RGIS has a surprisingly long history for something that started with a small group of friends.
+RGIS started around **May 2024**, when a small group of us regularly played Innovation Inc. games and other Roblox experiences together.
 
-It all began around **May 2024**, when roughly ten of us regularly played Innovation Inc. games and other Roblox experiences together. We wanted more people to join us, so the idea of creating our own community was born.
+There were roughly ten people in the original group. We wanted more people to join us, so the idea of making our own community started from there.
 
 The members of this early group included:
 
@@ -91,9 +100,9 @@ The members of this early group included:
 * mixa7546
 * KesaMesa
 * lemon42 (Makar) (Star)
-* MrFantastik1
+* MrFantastik (ProAlmazik1)
 * KingOfToasts88 (MrToast)
-* danya_dzumarik
+* Danya_Dzumarik
 * taras8606
 
 Additional information:
@@ -101,41 +110,41 @@ Additional information:
 * evontiure later left the project.
 * idk0782517567 (TvMan) eventually disappeared from the community, and we currently do not know what happened to him.
 
-At the time, we had no idea that this small group would eventually turn into RGIS, go through several different communities, survive major conflicts, disappear, and then come back as a completely new generation.
+Back then, we had no idea where the project would eventually go. Over the next few years, it went through several communities, conflicts and inactive periods before becoming the RGIS that exists today.
 
 ---
 
-## The Beginning — OII
+# The Beginning, OII
 
-The very first Discord server was called **OII — Охранники Innovation Inc.**
+The very first Discord server was called **OII, Охранники Innovation Inc.**
 
-It was basically a community for friends who enjoyed Innovation Inc. games. We played together, talked, and tried to find new people who wanted to join us.
+It was mainly a community for friends who enjoyed Innovation Inc. games. We played together, talked, and tried to find new people who wanted to join.
 
-We recruited many members directly from Innovation Inc. experiences. If we met someone who seemed interested, we would talk to them and invite them to our community.
+A lot of members were recruited directly from Innovation Inc. experiences. If we met someone who seemed interested, we talked to them and invited them to the community.
 
-At first, every new member felt like a big achievement. We had started with around ten people, so watching the community slowly grow was genuinely exciting.
+At the beginning, every new member felt like a big achievement. We had started with around ten people, so seeing the community grow was exciting.
 
-Eventually, OII became **RGIS — Russian Guards of Innovation Inc.**
+Eventually, OII became **RGIS, Russian Guards of Innovation Inc.**
 
 ---
 
 # The First RGIS
 
-The first RGIS Discord server became much more than the small group we had started with.
+The first RGIS Discord server became much bigger than the original group.
 
 The main creators were:
 
 - **MrToast / KingOfToasts88**
 - **Danya_Dzumarik**
-- **MrFantastik**
+- **MrFantastik / ProAlmazik1**
 
-The idea was to have three creators working together rather than having one person completely control the community.
+The idea was to have three creators working together instead of having one person completely control the community.
 
-During this period, RGIS continued growing. The community eventually reached around **50–60 members**.
+During this period, RGIS continued growing and eventually reached around **50 to 60 members**.
 
-However, RGIS was still primarily a community. We played different games, talked on Discord, recruited members and built our own identity.
+However, RGIS was still mainly a community. We played different games, talked on Discord, recruited members and slowly created our own identity.
 
-It wasn't originally a serious military organization. That side of RGIS developed much more over time.
+It was not originally meant to be a serious military organization. That side of RGIS developed later.
 
 ---
 
@@ -145,31 +154,31 @@ While the Discord community was growing, RGIS also had its own places on Roblox.
 
 One of the earliest places was created on **May 5, 2024**.
 
-It was mainly a place for community photos and hanging out. It had rooms for creators and moderators and was essentially a small community/photo location.
+It was mainly used for community photos and hanging out. There were rooms for creators and moderators, so it was basically a small community and photo location.
 
 The **RGIS Training Centre** was created on **May 24, 2024**.
 
-Even though the Training Centre existed very early, the modern RGIS systems did not exist yet. There was no Commends system and many of the gameplay and progression features were still ideas for the future.
+Even though the Training Centre existed very early, most of the modern RGIS systems did not exist yet. There was no Commends system, and many of the gameplay and progression features were still ideas for later.
 
-The Roblox side of RGIS developed alongside the Discord community, but the Discord history and Roblox history are not the same thing. There was one Roblox group, while the Discord community went through several completely separate servers.
+The Roblox project and the Discord community developed alongside each other, but they have their own separate histories. There was one Roblox group, while the Discord community went through several different servers.
 
 ---
 
 # The Problems Inside the First RGIS
 
-As the first RGIS grew, disagreements began appearing within the community.
+As the first RGIS grew, disagreements started appearing inside the community.
 
-A major issue was the way moderation and leadership were handled.
+One of the biggest issues was the way moderation and leadership were handled.
 
-Some members felt that Danya had too much control and that people were sometimes muted or banned for things that did not deserve such punishments.
+Some members felt that Danya had too much control and that people were sometimes muted or banned for things that did not deserve those punishments.
 
-RandomUser was one of the people who tried to point out problems and suggest improvements. However, according to what we experienced at the time, he was sometimes ignored, muted or banned instead.
+RandomUser was one of the people who tried to point out problems and suggest changes. However, according to what we experienced at the time, he was sometimes ignored, muted or banned instead.
 
 I was also muted by Danya during this period.
 
-Eventually, some members began feeling that the community had become too restrictive.
+Eventually, some members started feeling that the community had become too restrictive.
 
-They wanted a more open environment where members could express their opinions and have more freedom, while still keeping prohibited content out of the community.
+They wanted a more open environment where members could express their opinions and have more freedom while still keeping prohibited content out of the community.
 
 ---
 
@@ -179,7 +188,7 @@ During the summer of 2024, especially around **August**, the situation became mu
 
 Two of the main people involved in the opposition were **Termo** and **RandomUser**.
 
-The disagreement eventually turned into what became known as the **“revolution.”**
+The disagreement eventually became known as the **"revolution."**
 
 The people involved decided to raid the RGIS Discord server as a response to the conflicts and moderation decisions.
 
@@ -191,19 +200,21 @@ Afterwards, Danya blocked many of the remaining members and eventually deleted t
 
 The **first RGIS server was gone**.
 
-This is an important distinction: the current RGIS is **not** that original Discord server. The original server was deleted and no longer exists.
+The original RGIS Discord server no longer exists. The current RGIS is a separate, second RGIS community.
 
 ---
 
-# IIRC — A Separate Server
+# IIRC, A Separate Server
 
-After the original RGIS server disappeared, a completely separate Discord community was created:
+IIRC already existed before the first RGIS completely fell apart.
 
-**IIRC — Innovation Inc. Russian Community**
+The server was created on **2024. May 6**.
 
-IIRC was not a renamed version of the original RGIS server. It was a new and separate server.
+It was mostly inactive for a period of time before becoming more relevant after the original RGIS disappeared.
 
-It was created: 2024. May 6.
+IIRC was not a renamed version of the original RGIS server. It was a separate server.
+
+**IIRC, Innovation Inc. Russian Community**
 
 Its main leadership included:
 
@@ -215,19 +226,23 @@ I eventually joined IIRC as well.
 
 At first I had no staff position, but later became a **Moderator** and eventually a **Senior Moderator**.
 
-IIRC became a new home for many people who had been involved in the previous community.
+After the original RGIS disappeared, IIRC became one of the places where former RGIS members ended up.
+
+From our side, some of the people who moved to IIRC were seen as having turned against RGIS. At the time, some of them were even referred to as **"traitors"** because of their involvement in the conflict and the raid against the original RGIS server.
+
+This was how the situation was viewed by our side at the time.
 
 ---
 
 # The TvMan Incident
 
-( 2024. July 08. )
+**2024. July 08**
 
 During the IIRC period, another serious situation occurred involving **TvMan**.
 
 TvMan had been one of the earliest members of the original RGIS community.
 
-At one point, some people within IIRC discussed trying to compromise his account. One of the reasons mentioned at the time was his support for an organization or side that they disagreed with.
+Archived conversations from the IIRC period contain discussions about attempting to compromise his account. One of the reasons mentioned at the time was his support for an organization or side that some people disagreed with.
 
 I tried to warn him, but he was constantly AFK and did not respond.
 
@@ -239,21 +254,23 @@ This incident remained one of the more serious moments connected to the IIRC per
 
 # The End of IIRC
 
-Eventually, IIRC began losing activity.
+Eventually, IIRC started losing activity.
 
-The creators became tired of maintaining the community, Termo left, and the online activity gradually dropped.
+The creators became tired of maintaining the community, Termo left, and activity gradually dropped.
 
 There was no single event that suddenly destroyed IIRC. It simply became less and less active until it was effectively abandoned.
 
-I remained connected to the server and am still a Senior Moderator there, but IIRC is no longer the active project it once was.
+I remained connected to the server, and my time as a Senior Moderator remains part of its history, but IIRC is no longer an active project.
+
+The server and its roles still exist, but there is little to no activity there anymore.
 
 ---
 
-# IRC — Another Separate Community
+# IRC, Another Separate Community
 
 While IIRC already existed, another completely separate Discord server was later created.
 
-It was created: 2024. November 02.
+It was created on **2024. November 02**.
 
 Its original name was:
 
@@ -267,7 +284,7 @@ I worked on IRC together with **Fereque**.
 
 At this point, I already had the RGIS Training Centre on Roblox, and I wanted a community around it again. Having an active community gave me motivation to continue developing the Training Centre.
 
-The idea was essentially to try again and recreate the type of Russian-speaking Innovation Inc. community that we had lost.
+The idea was to try again and recreate the kind of Russian-speaking Innovation Inc. community that we had lost.
 
 ---
 
@@ -277,29 +294,29 @@ IRC went through quite a few changes after the original RGIS project had fallen 
 
 At one point, I invited a friend of mine to the server. He was also one of the original creators of RGIS. After joining, Danya became one of the main people involved in the community and its management.
 
-Later, Danya asked me if he could change the server and give it a new style. I agreed, but I told him that he should discuss the changes with Fereque first, since he was also part of the leadership.
+Later, Danya asked me if he could change the server and give it a new style. I agreed, but I told him that he should discuss the changes with Fereque first, since Fereque was also part of the leadership.
 
-That didn't happen.
+That did not happen.
 
 Danya started making major changes without informing Fereque first. He deleted channels and messages and began rebuilding the server around his own ideas and style.
 
 This caused a serious conflict between them. Fereque was very angry about what had happened and eventually removed Danya from his position.
 
-My situation was different. I wasn't removed simply because of what happened with Danya. By that point, my relationship with Fereque had already become worse. Because of other situations and disagreements, I had started trusting him less, and it became harder for us to work together like before.
+My situation was different. I was not removed simply because of what happened with Danya. By that point, my relationship with Fereque had already become worse. Because of other situations and disagreements, I had started trusting him less, and it became harder for us to work together like before.
 
 Eventually, I was removed from my position as well, and we went our separate ways.
 
-After that, I started thinking about bringing RGIS back. I didn't want the original project to simply disappear, and I wanted to try building it again.
+After that, I started thinking about bringing RGIS back. I did not want the original project to simply disappear, and I wanted to try building it again.
 
 At the time, the Roblox group that had originally been used for RGIS was being used as the IRC group. I decided to change the group back to RGIS and continue the project under its original name.
 
-Looking back, I also made a mistake in how I handled that decision. I told Fereque about the change only a few minutes before I made it, instead of giving him proper notice a few days earlier. I understand that this was not a good way to handle the situation, and I should have communicated it much earlier.
+Looking back, I also made a mistake in how I handled that decision. I told Fereque about the change only a few minutes before I made it instead of giving him proper notice a few days earlier. I understand that this was not a good way to handle the situation, and I should have communicated it much earlier.
 
-Despite everything that happened, this became the starting point for bringing RGIS back and continuing the project again.
+Despite everything that happened, this became the starting point for bringing RGIS back and continuing the project.
 
-——-
+---
 
-# The IIRC–IRC Conflict — Additional Evidence
+# The IIRC-IRC Conflict, Additional Evidence
 
 Archived staff messages from March 2025 provide additional details about the conflict between IIRC, IRC and the people involved.
 
@@ -325,17 +342,17 @@ The archived conversations include discussions about possible raids, Discord rep
 
 Despite these threats, no major raid or similar attack was ultimately carried out.
 
-The conflict eventually stopped escalating, and the communities largely stopped interacting with each other.
+Eventually, things calmed down and the communities mostly stopped interacting.
 
 ## The End of the Conflict
 
-Over time, the conflict effectively came to an end through separation rather than reconciliation.
+Over time, the conflict came to an end as the communities went their separate ways.
 
-IIRC eventually became inactive and effectively died as a community. Its server is no longer active.
+IIRC eventually became inactive and was effectively abandoned.
 
-IRC, on the other hand, remained active and continued developing as a community.
+IRC remained active and continued developing as a community.
 
-Because of this, in terms of long-term activity and survival, IRC can be considered the side that ultimately came out ahead. This does not necessarily mean that every claim made during the conflict was proven or that IRC "won" every individual dispute, but IRC remained active while IIRC became inactive.
+The two communities simply went in different directions. This does not necessarily mean that every claim made during the conflict was proven or that one side "won" every individual dispute.
 
 LiMoH4iK, the founder of IIRC, is also banned from IRC and other communities associated with Fereque.
 
@@ -343,9 +360,9 @@ The two sides now largely exist separately, with little to no interaction betwee
 
 ## Additional QSRC Documentation
 
-The QSRC-related events are documented separately and are not included in detail here, as they are not directly part of the IIRC–IRC conflict.
+The QSRC-related events are documented separately and are not included in detail here, as they are not directly part of the IIRC-IRC conflict.
 
-[QSRC — Limon Investigation / Archive](https://docs.google.com/document/d/11eSIxEoO34kZCowH1QFHsi_nd58PiX4OlF3pX77PICs/edit?usp=drivesdk)
+[QSRC, Limon Investigation / Archive](https://docs.google.com/document/d/11eSIxEoO34kZCowH1QFHsi_nd58PiX4OlF3pX77PICs/edit?usp=drivesdk)
 
 ---
 
@@ -359,9 +376,9 @@ It is important to make the distinction clear:
 
 > **The original RGIS server was deleted in 2024. The current community is the second RGIS server.**
 
-The goal wasn't simply to reuse the name.
+The goal was not simply to reuse the name.
 
-I wanted to bring back the old RGIS identity, the people who had been part of it, the style, the traditions and the idea behind the original community — but this time build it into something much more developed.
+I wanted to bring back the old RGIS identity, the people who had been part of it, the style, the traditions and the idea behind the original community, but this time build it into something much more developed.
 
 Many former members eventually returned.
 
@@ -369,7 +386,7 @@ Many former members eventually returned.
 
 # The Modern RGIS
 
-The Discord server was created: 2025. April 07.
+The Discord server was created on **2025. April 07**.
 
 The second RGIS developed into something much more structured than the original community.
 
@@ -396,7 +413,7 @@ The Training Centre became one of the main parts of the entire RGIS project.
 
 ---
 
-# RGIS Training Centre 
+# RGIS Training Centre
 
 ## History & Development
 
@@ -438,26 +455,30 @@ The first training also helped us find bugs and improve things such as map spawn
 
 The main development was done by **MrToast** and **KesaMesa**, with other community members helping through testing and training sessions, including:
 
-- **DanyaDzumarik**
+- **Danya_Dzumarik**
 - **Makar**
 - **magyardurex55**
 - **Mixa7546**
 
-Everyone who spent their time helping the project is part of its history.
+Everyone who spent their time helping the project contributed something to its history.
 
 ## Current State
 
-As of **August 2026**, the RGIS Training Centre is active and playable. More maps and content are planned for the future.
+The RGIS Training Centre is active and playable. More maps and content are planned for the future.
 
-For me, the biggest achievement of the project is not just the game itself, but the community around it — a place where people can train, compete, have fun, and build something together.
+For me, the biggest achievement of the project is not just the game itself. It is also the community around it, where people can train, compete, have fun, and build something together.
 
-## KesaMesa's Roblox Project
+---
+
+# KesaMesa's Roblox Project
 
 **KesaMesa** is one of the main contributors to the RGIS Training Centre, mainly working on scripting and technical systems.
 
 She also has her own Roblox project, which is worth checking out if you're interested in her work as a developer.
 
 🎮 **[Play KesaMesa's Roblox Experience](https://www.roblox.com/share?code=d73700e2ba42cd428161d742595659ea&type=ExperienceDetails&stamp=1787610207288)**
+
+---
 
 # The Blue Acid
 
@@ -475,11 +496,11 @@ It is still an acid, meaning that direct exposure can be lethal.
 
 At the same time, the acid has another unusual property: if it is properly processed and purified, it can become safe enough to **drink**.
 
-This gives the blue acid several completely different purposes:
+This gives the blue acid several different purposes:
 
 **Energy → Weapons → Dangerous substance → Purified drink**
 
-The Blue Acid is therefore an important part of RGIS's identity and helps connect the Training Centre's visual design with the wider lore of the project.
+The Blue Acid is an important part of RGIS's identity and connects the Training Centre's visual design with the wider lore of the project.
 
 ---
 
@@ -491,74 +512,79 @@ MrFantastik eventually became inactive and stopped contributing much to the comm
 
 Instead of simply removing him from RGIS history, he was given the **Veteran** role because of his involvement as one of the original creators.
 
-Makar643267 later returned to the leadership.
+For clarity:
 
-This was especially meaningful because Makar had been involved right from the beginning.
+**MrFantastik** is the name he is commonly known by in the community.
 
-Today, the two active creators are:
+His Discord name is **ProAlmazik1**, and his Discord username is **mrfantastik1**.
+
+Makar643267 later received a higher position in the leadership and became one of the creators. He did not leave RGIS before this change.
+
+Makar had been involved right from the beginning.
+
+## Danya's Account Change
+
+> [!IMPORTANT]
+> ## 🔴 Danya's Original Account Was Permanently Banned
+>
+> **Danya's original Discord account was permanently banned on 2026.08.02.**
+>
+> The account was known as **Danya_Dzumarik** and used the username **shifu_5558**.
+>
+> After a short break, Danya returned to the project on **2026.09.04** using his **second Discord account**, with the username **danya203030**.
+>
+> His return brought the creator team back to three people.
+
+Danya currently uses **Danya_Dzumarik** as his commonly used name, while **danya203030** is the username of his second account.
+
+The creator team following his return consists of:
 
 **MrToast / KingOfToasts88**  
-**Makar643267**
+**Makar643267 / xstar_captain**  
+**Danya_Dzumarik / danya203030**
 
-MrToast currently serves as the **lead developer and main creator of RGIS**.
-
----
-
-# Reconciliation with Fereque
-
-The conflict between Fereque and me did not last forever.
-
-Eventually, we both apologized and moved past what happened.
-
-Our relationship improved and we began working together again.
-
-MrToast returned to the community, first as a Senior Moderator and later as part of the leadership.
-
-So although the IRC period ended with a major disagreement between us, we eventually managed to put it behind us.
+MrToast serves as the **lead developer and head of RGIS**, while Makar and Danya are also part of the creator team.
 
 ---
 
 # The Three Main Discord Communities
 
-To understand the history of RGIS, it is important not to confuse the different servers.
+The original RGIS Discord server no longer exists, so it is not counted as a current community.
 
-### RGIS #1
+There are three main Discord communities connected to this history.
 
-**OII — Охранники Innovation Inc.**  
-↓  
-**RGIS — Russian Guards of Innovation Inc.**  
-↓  
-**Deleted in 2024**
+## IIRC
 
-This was the original RGIS Discord server.
+**IIRC, Innovation Inc. Russian Community**
 
-### IIRC
+A separate server that existed before the original RGIS collapsed. It later became one of the places where former RGIS members gathered.
 
-**IIRC — Innovation Inc. Russian Community**
+IIRC is currently inactive and abandoned.
 
-A completely separate server created after the original RGIS collapsed.
-
-### IRC
+## IRC
 
 **Innovation CIS Community**  
-↓  
 **IRC**
 
-Another completely separate server that was later used as an attempt to rebuild the community before the decision was made to return to RGIS.
+A separate community created in November 2024.
 
-### RGIS #2
+IRC remained active after IIRC became inactive and is generally the most active of the three communities.
+
+## RGIS #2
 
 **The current RGIS**
 
-A new server created after IRC together with Danya.
+A new server created after the IRC period together with Danya.
 
-This is the second RGIS server and the one that is active today.
+The current RGIS is the second RGIS Discord server. Its activity has changed over time, with periods when the community was inactive and periods when it became active again.
+
+This is the RGIS community that currently has the Training Centre, Commends, events and the modern RGIS systems.
 
 ---
 
 # RGIS Today
 
-As of 2026, the current RGIS has approximately **56 members**.
+The current RGIS community has **60+ members** as of the last update of this archive.
 
 The community has:
 
@@ -573,10 +599,15 @@ The community has:
 - Its own Blue Acid lore
 - An active Discord community
 
-The current leadership consists of **MrToast** , **Makar643267 (xstar_captain)**. and **Danya_Dzumarik**
+The creator team consists of:
 
-RGIS also maintains friendly connections with people from its past, including Fereque.
+- **MrToast (KingOfToasts88)**
+- **Makar643267 (xstar_captain)**
+- **Danya_Dzumarik (danya203030)**
 
+There have been disagreements with people from RGIS's past, including Fereque. We had our problems, but things are normal between us now.
+
+---
 
 # Looking Back
 
@@ -584,38 +615,38 @@ RGIS started with roughly ten friends who simply wanted to play Innovation Inc. 
 
 Since then, it has gone through a lot.
 
-The first RGIS server grew to dozens of members, experienced serious internal conflicts, went through the 2024 “revolution,” and was eventually deleted.
+The first RGIS server grew to dozens of members, experienced serious internal conflicts, went through the 2024 "revolution," and was eventually deleted.
 
-After that came IIRC.
+After that, the community went through IIRC and IRC, each becoming a separate part of the history.
 
-Then came IRC.
+Eventually, RGIS came back, not as the old Discord server because that server was gone, but as a **second RGIS community**.
 
-Both were separate communities, each with its own people, problems and history.
+The current RGIS is based on everything that happened before it.
 
-Eventually, RGIS came back not as the old Discord server, because that server was gone, but as a **second RGIS community**.
+It brings back old members and traditions while also introducing new ideas such as Commends, a working Training Centre, new gameplay systems and the Blue Acid lore.
 
-The current RGIS is built on the experience of everything that happened before it.
+RGIS started as a small group of friends in May 2024. Since then, the project has gone through several different communities and a lot of changes, and the current RGIS continues that history.
 
-It brings back old members and traditions while also introducing completely new ideas such as Commends, a working Training Centre, new gameplay systems and the Blue Acid lore.
+The first RGIS Discord server is gone.
 
-What started as a small group of friends in May 2024 has become a community with its own history, identity and universe.
+The second RGIS is still here.
 
-**The first RGIS is gone.**
+---
 
-**The second RGIS is alive.**
+# Official Links
 
-**And the story is still being written.**
+## Current RGIS
 
-## Official Links
-
-### Current RGIS
 - Roblox Group: [RGIS Roblox Group](https://www.roblox.com/share/g/34407645)
 - RGIS Training Centre: [Training Centre](https://www.roblox.com/share?code=71c07453ca97014f8f795fd4a3db88e0&type=ExperienceDetails&stamp=1787402401691)
 - Discord: [RGIS Discord](https://discord.gg/ZuvMQn6MwU)
 
-### Other Communities
+## Other Communities
+
 - IRC: [IRC Discord](https://discord.gg/sDMVm3aDQz)
 - IRC Roblox Group: [IRC Roblox Group](https://www.roblox.com/share/g/387818876)
 - IIRC: [IIRC Discord](https://discord.gg/FgfKQCZEvZ)
 
- Written by MrToast ( KingOfToasts88 )
+---
+
+Written by **MrToast (KingOfToasts88)**
