@@ -1,13 +1,13 @@
 # History-of-Russian-Guards-of-Innovation-Inc-and-other-Russian-projects
 
-> **Archive last updated: September 29, 2026**
+> **Archive last updated: October 17, 2026**
 
-An archive documenting the history of Russian-speaking Innovation Inc. communities, including OII, RGIS, IIRC, IRC, and the current RGIS project.
+An archive documenting the history of Russian-speaking Innovation Inc. communities, including OII, RGIS, IIRC, and IRC, as well as the development and conclusion of RGIS and the transition to RIVA.
 
 ## 📚 Archive Index
 
 ### Community & Leadership
-- [Current Roles & Leadership](#current-roles--leadership)
+- [Roles & Leadership Archive](#roles--leadership-archive)
 
 ### Contributors & Projects
 - [KesaMesa's Roblox Project](#kesamesas-roblox-project)
@@ -22,9 +22,11 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 - [The Modern RGIS](#the-modern-rgis)
 - [RGIS Training Centre](#rgis-training-centre)
 - [The Blue Acid](#the-blue-acid)
-- [Leadership Today](#leadership-today)
+- [Leadership During RGIS's Final Period](#leadership-during-rgiss-final-period)
 - [The Three Main Discord Communities](#the-three-main-discord-communities)
-- [RGIS Today](#rgis-today)
+- [The Final Days of RGIS](#the-final-days-of-rgis)
+- [The End of RGIS](#the-end-of-rgis)
+- [The Beginning of RIVA](#the-beginning-of-riva)
 
 ### Reference
 - [Looking Back](#looking-back)
@@ -32,9 +34,9 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 
 ---
 
-# Current Roles & Leadership
+# Roles & Leadership Archive
 
-## RGIS
+## RGIS ( 2026.10.15. )
 
 | User | Position |
 |------|----------|
@@ -54,7 +56,7 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 
 ---
 
-## IRC
+## IRC ( 2026.10.15 )
 
 | User | Position |
 |------|----------|
@@ -74,7 +76,7 @@ An archive documenting the history of Russian-speaking Innovation Inc. communiti
 
 ---
 
-## IIRC
+## IIRC ( 2026.10.15 )
 
 > IIRC is currently inactive and abandoned.
 
@@ -99,7 +101,7 @@ The members of this early group included:
 * idk0782517567 (TvMan)
 * mixa7546
 * KesaMesa
-* lemon42 (Makar) (Star)
+* lemon42 (Makar) (xStar_Captain)
 * MrFantastik (ProAlmazik1)
 * KingOfToasts88 (MrToast)
 * Danya_Dzumarik
@@ -504,7 +506,7 @@ The Blue Acid is an important part of RGIS's identity and connects the Training 
 
 ---
 
-# Leadership Today
+# Leadership During RGIS's Final Period
 
 The leadership of RGIS has changed significantly since the original server.
 
@@ -518,7 +520,7 @@ For clarity:
 
 His Discord name is **ProAlmazik1**, and his Discord username is **mrfantastik1**.
 
-Makar643267 later received a higher position in the leadership and became one of the creators. He did not leave RGIS before this change.
+Makar643267  ( new username: xStar_Captain ) later received a higher position in the leadership and became one of the creators. He did not leave RGIS before this change.
 
 Makar had been involved right from the beginning.
 
@@ -582,64 +584,71 @@ This is the RGIS community that currently has the Training Centre, Commends, eve
 
 ---
 
-# RGIS Today
+# The Final Days Of RGIS
 
-The current RGIS community has **60+ members** as of the last update of this archive.
+By its final period, RGIS had over **60 members**, a developed Training Centre, a ranking system, Commends, multiple gameplay modes, and its own Blue Acid lore.
 
-The community has:
+However, interest in Innovation Inc. games and discussions gradually declined among both members and staff. The community was losing the purpose it had originally been created for.
 
-- A working Training Centre
-- Training sessions
-- A ranking system
-- Commends
-- PvP and other gameplay modes
-- Events and tournaments
-- Community photos and traditions
-- Returning members from the original RGIS
-- Its own Blue Acid lore
-- An active Discord community
+We also did not want RGIS to remain just another fan community based on someone else's game. There were already many similar groups, and we wanted to build something with its own identity and direction.
 
-The creator team consists of:
+These reasons eventually led to the decision to end RGIS's service.
 
-- **MrToast (KingOfToasts88)**
-- **Makar643267 (xstar_captain)**
-- **Danya_Dzumarik (danya203030)**
+---
 
-There have been disagreements with people from RGIS's past, including Fereque. We had our problems, but things are normal between us now.
+# The End of RGIS
+
+> **October 16, 2026 | 21:25**
+>
+> **RGIS has officially ended its service.**
+
+After more than two years, the RGIS project has come to an end.
+
+The community gradually lost its original purpose as members became less interested in Innovation Inc. games and related discussions. We also wanted to move beyond being just another fan group and pursue a more independent direction.
+
+RGIS developed its own features, including the Training Centre, Commends, and Blue Acid lore. However, we eventually decided it was time to move on.
+
+The original RGIS Discord server was deleted in 2024. The second RGIS community continued the project until its final closure on October 16, 2026.
+
+**RGIS is no longer an active project. Its history remains preserved in this archive.**
+
+---
+
+# The Beginning of RIVA
+
+Following the end of RGIS, a new project called **RIVA** ( Russian Independent Vanguard Alliance ) marks the beginning of a new chapter.
+
+RIVA is a separate fictional technological organization with its own identity and lore. Instead of continuing RGIS under the same concept, we decided to explore a different direction and build something more independent.
+
+RIVA is not simply a renamed version of RGIS. It is a separate project with its own vision and future.
+
+> **RGIS is part of our history. RIVA is the next chapter.**
 
 ---
 
 # Looking Back
 
-RGIS started with roughly ten friends who simply wanted to play Innovation Inc. together.
+RGIS began in May 2024 as a small group of friends who wanted to play Innovation Inc. together.
 
-Since then, it has gone through a lot.
+Over time, it grew into a larger community, experienced conflicts, went through several different servers, and developed its own Training Centre, Commends system, and Blue Acid lore.
 
-The first RGIS server grew to dozens of members, experienced serious internal conflicts, went through the 2024 "revolution," and was eventually deleted.
+The first RGIS Discord server was deleted in 2024, but the second community continued its history until October 16, 2026.
 
-After that, the community went through IIRC and IRC, each becoming a separate part of the history.
+RGIS eventually lost its original purpose, and we decided it was time to move on rather than continue as another fan community.
 
-Eventually, RGIS came back, not as the old Discord server because that server was gone, but as a **second RGIS community**.
+Its history is now preserved in this archive, while RIVA begins as a separate project.
 
-The current RGIS is based on everything that happened before it.
-
-It brings back old members and traditions while also introducing new ideas such as Commends, a working Training Centre, new gameplay systems and the Blue Acid lore.
-
-RGIS started as a small group of friends in May 2024. Since then, the project has gone through several different communities and a lot of changes, and the current RGIS continues that history.
-
-The first RGIS Discord server is gone.
-
-The second RGIS is still here.
+> **RGIS has completed its service. Its history remains.**
 
 ---
 
 # Official Links
 
-## Current RGIS
+## Current RIVA
 
-- Roblox Group: [RGIS Roblox Group](https://www.roblox.com/share/g/34407645)
-- RGIS Training Centre: [Training Centre](https://www.roblox.com/share?code=71c07453ca97014f8f795fd4a3db88e0&type=ExperienceDetails&stamp=1787402401691)
-- Discord: [RGIS Discord](https://discord.gg/ZuvMQn6MwU)
+- Roblox Group: [RIVA Roblox Group](https://www.roblox.com/share/g/34407645)
+- RIVA Training Centre: [Training Centre](https://www.roblox.com/share?code=71c07453ca97014f8f795fd4a3db88e0&type=ExperienceDetails&stamp=1787402401691)
+- Discord: [RIVA Discord](https://discord.gg/ZuvMQn6MwU)
 
 ## Other Communities
 
